@@ -1,3 +1,4 @@
 *.dll
+*.cpp
 .DS_Store
 Thumbs.db
